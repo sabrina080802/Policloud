@@ -1,0 +1,1 @@
+- Les apostrophes et mot composés ne sont pas gérés
